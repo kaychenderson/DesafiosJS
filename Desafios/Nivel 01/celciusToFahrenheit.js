@@ -13,4 +13,4 @@ function converterCelsius() {
     alert(`A temperatura em Fahrenheit é: ${fahrenheit.toFixed(2)}`);
 }
 
-converterCelsiusInterativo();
+converterCelsius();

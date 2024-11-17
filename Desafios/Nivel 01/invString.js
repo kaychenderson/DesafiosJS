@@ -1,8 +1,8 @@
-function reverterString(str) {
+function reverterString2(str) {
     return str.split('').reverse().join('');
 }
 
-console.log(reverterString("JavaScript")); // Saída: "tpircSavaJ"
+console.log(reverterString2("JavaScript")); // Saída: "tpircSavaJ"
 
 // OU
 
